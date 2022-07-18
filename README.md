@@ -14,4 +14,4 @@ FLASHBOTS_KEY=signing key to use for flashbots bundles
 SIMULATE_ONLY=Simulate bundles if set to any value
 TESTNET=Operate on goerli testnet if set to any value
 REGISTRATIONS_FILE=.ron file to read registration info from
-RUST_LOG(optional)=Log level```
+RUST_LOG(optional)=Log level
